@@ -1,0 +1,243 @@
+<CATALOG>
+
+    <PLACE>
+		<STATE>Andhra Pradesh</STATE>
+	    <CAPITAL>Hyderabad</CAPITAL>
+	</PLACE>
+
+	<PLACE>
+		<STATE>Arunachal Pradesh</STATE>
+	    <CAPITAL>Itanagar</CAPITAL>
+	</PLACE>
+
+	<PLACE>
+		<STATE>Assam</STATE>
+	    <CAPITAL>Dispur</CAPITAL>
+	</PLACE>
+
+	<PLACE>
+		<STATE>Bihar</STATE>
+	    <CAPITAL>Patna</CAPITAL>
+	</PLACE>
+
+	<PLACE>
+    <STATE>Chhatisgarh</STATE>
+      <CAPITAL>Raipur</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Goa</STATE>
+      <CAPITAL>Panaji</CAPITAL>
+  </PLACE>
+
+   <PLACE>
+    <STATE>Gujarat</STATE>
+      <CAPITAL>Gandhinagar</CAPITAL>
+  </PLACE>
+  <PLACE>
+    <STATE>Jharkhand</STATE>
+      <CAPITAL>Ranchi</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+      <STATE>Karnataka</STATE>
+      <CAPITAL>Bengaluru</CAPITAL>
+    </PLACE>
+
+    <PLACE>
+    <STATE>Kerala</STATE>
+      <CAPITAL>Thiruvananthapuram</CAPITAL>
+  </PLACE>
+
+    <PLACE>
+    <STATE>MP</STATE>
+      <CAPITAL>Bhopal</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Maharashtra</STATE>
+      <CAPITAL>Mumbai</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Manipur</STATE>
+      <CAPITAL>Imphal</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Meghalaya</STATE>
+      <CAPITAL>Shillong</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Mizoram</STATE>
+      <CAPITAL>Aizwal</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Odisha</STATE>
+      <CAPITAL>Bhubaneshwar</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Nagaland</STATE>
+      <CAPITAL>Kohima</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Punjab</STATE>
+      <CAPITAL>Chandigarh</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Rajasthan</STATE>
+      <CAPITAL>Jaipur</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Sikkim</STATE>
+      <CAPITAL>Gangatok</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Tamil Nadu</STATE>
+      <CAPITAL>Chennai</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Telangana</STATE>
+      <CAPITAL>Hyderabad</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Tripura</STATE>
+      <CAPITAL>Agartala</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>UP</STATE>
+      <CAPITAL>Lucknow</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Uttarakhand</STATE>
+      <CAPITAL>Dehradun</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>West Bengal</STATE>
+      <CAPITAL>Kolkata</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Haryana</STATE>
+      <CAPITAL>Chandigarh</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Himachal Pradesh</STATE>
+      <CAPITAL>Shimla</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>J&amp;K</STATE>
+      <CAPITAL>Srinagar</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Jharkhand</STATE>
+      <CAPITAL>Ranchi</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+      <STATE>Karnataka</STATE>
+      <CAPITAL>Bengaluru</CAPITAL>
+    </PLACE>
+
+    <PLACE>
+    <STATE>Kerala</STATE>
+      <CAPITAL>Thiruvananthapuram</CAPITAL>
+  </PLACE>
+
+    <PLACE>
+    <STATE>MP</STATE>
+      <CAPITAL>Bhopal</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Maharashtra</STATE>
+      <CAPITAL>Mumbai</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Manipur</STATE>
+      <CAPITAL>Imphal</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Meghalaya</STATE>
+      <CAPITAL>Shillong</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Mizoram</STATE>
+      <CAPITAL>Aizwal</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Odisha</STATE>
+      <CAPITAL>Bhubaneshwar</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Nagaland</STATE>
+      <CAPITAL>Kohima</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Punjab</STATE>
+      <CAPITAL>Chandigarh</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Rajasthan</STATE>
+      <CAPITAL>Jaipur</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Sikkim</STATE>
+      <CAPITAL>Gangatok</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Tamil Nadu</STATE>
+      <CAPITAL>Chennai</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Telangana</STATE>
+      <CAPITAL>Hyderabad</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Tripura</STATE>
+      <CAPITAL>Agartala</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>UP</STATE>
+      <CAPITAL>Lucknow</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>Uttarakhand</STATE>
+      <CAPITAL>Dehradun</CAPITAL>
+  </PLACE>
+
+  <PLACE>
+    <STATE>West Bengal</STATE>
+      <CAPITAL>Kolkata</CAPITAL>
+  </PLACE>
+
+    
+</CATALOG>

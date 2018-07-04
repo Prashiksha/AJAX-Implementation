@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>AJAX IMPLEMENTATION</title>
+</head>
+
+<style>
+
+  table,th,td {
+    border : 1px solid black;
+    border-collapse: collapse;
+}
+
+  th,td {
+    padding: 5px;
+}
+
+</style>
+
+
+<body>
+
+  <center>
+    <h1>States and Capitals</h1>
+
+    <button type="button" onclick="loadDoc()">Open List</button>
+    <br><br>
+    <table id="demo1"></table>
+
+      <br><br><br><br>
+      <h1>The XMLHttpRequest Object</h1>
+
+      <div id="demo2">
+
+        <button type="button" onclick="loadDoc2('abc.txt', myFunction2)">Change Content</button>
+      </div>
+
+<script>
+  /*******states and capital******/
+    /****to create an object to create a request*****/
+function loadDoc() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      myFunction(this);    /******go to server when in ready state******/
+    }
+  };
+  xhttp.open("GET", "abc.xml", true);
+  xhttp.send();
+}
+
+function myFunction(xml) {      //*****server request*********/
+  var i;
+  var xmlDoc = xml.responseXML;
+  var table="<tr><th>State</th><th>Capital</th></tr>";
+  var x = xmlDoc.getElementsByTagName("PLACE");
+  for (i = 0; i <x.length; i++) {   //iterate through xml document to get the data
+    table += "<tr><td>" +
+    x[i].getElementsByTagName("STATE")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("CAPITAL")[0].childNodes[0].nodeValue +
+    "</td></tr>";
+  }
+  document.getElementById("demo1").innerHTML = table;
+}
+ 
+
+/****** AJAX 2nd part ***********/
+function loadDoc2(url, cFunction) {  //call back function
+  var xhttp2;
+  xhttp2 = new XMLHttpRequest();
+  xhttp2.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      cFunction(this);
+    }
+  };
+  xhttp2.open("GET", url, true);
+  xhttp2.send();
+}
+function myFunction2(xhttp2) {
+  document.getElementById("demo2").innerHTML =
+  xhttp2.responseText;
+}
+</script>
+
+ </center>
+ 
+</body>
+</html>
